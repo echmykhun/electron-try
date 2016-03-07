@@ -1,0 +1,8 @@
+{
+  "name": "vk-messenger",
+  "version": "0.10.1",
+  "main": "main.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.10"
+  }
+}
