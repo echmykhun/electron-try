@@ -3,6 +3,22 @@
   "version": "0.10.1",
   "main": "main.js",
   "dependencies": {
-    "electron-prebuilt": "^0.36.10"
+    "async-class": "^0.4.1",
+    "bluebird": "^3.3.3",
+    "bottlejs": "^1.2.3",
+    "co": "^4.6.0",
+    "electron-prebuilt": "^0.36.10",
+    "nodejs-model": "^0.1.6",
+    "request-promise": "^2.0.1",
+    "require-dir": "^0.3.0",
+    "vk-io": "^2.0.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscpd": "0.0.6",
+    "gulp-jshint": "^2.0.0",
+    "gulp-watch": "^4.3.5",
+    "jscpd": "^0.5.3",
+    "jshint": "^2.9.1"
   }
 }
